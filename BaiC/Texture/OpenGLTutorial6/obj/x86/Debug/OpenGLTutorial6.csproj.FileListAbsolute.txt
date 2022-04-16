@@ -1,0 +1,13 @@
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\OpenGLTutorial6.exe.config
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\OpenGLTutorial6.exe
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\OpenGLTutorial6.pdb
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\OpenGL.dll
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\Tao.FreeGlut.dll
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\OpenGL.dll.config
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\obj\x86\Debug\OpenGLTutorial6.csproj.AssemblyReference.cache
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\obj\x86\Debug\OpenGLTutorial6.csproj.SuggestedBindingRedirects.cache
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\obj\x86\Debug\OpenGLTutorial6.csproj.CoreCompileInputs.cache
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\obj\x86\Debug\OpenGLTutorial6.csproj.CopyComplete
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\obj\x86\Debug\OpenGLTutorial6.exe
+C:\Users\trann\Downloads\opengl4tutorials-master\opengl4tutorials-master\OpenGLTutorial6\OpenGLTutorial6\obj\x86\Debug\OpenGLTutorial6.pdb
